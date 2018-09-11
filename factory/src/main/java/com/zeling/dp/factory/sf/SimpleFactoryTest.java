@@ -1,5 +1,8 @@
 package com.zeling.dp.factory.sf;
 
+import com.zeling.dp.factory.pub.IHuman;
+import com.zeling.dp.factory.pub.Man;
+import com.zeling.dp.factory.pub.Woman;
 import com.zeling.dp.factory.sf.HumanFactory.HumanType;
 
 /**

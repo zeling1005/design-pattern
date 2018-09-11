@@ -1,5 +1,7 @@
 package com.zeling.dp.factory.sf;
 
+import com.zeling.dp.factory.pub.IHuman;
+
 /**
  * 人类工厂类2
  * 

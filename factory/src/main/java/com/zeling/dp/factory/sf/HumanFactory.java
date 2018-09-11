@@ -1,5 +1,9 @@
 package com.zeling.dp.factory.sf;
 
+import com.zeling.dp.factory.pub.IHuman;
+import com.zeling.dp.factory.pub.Man;
+import com.zeling.dp.factory.pub.Woman;
+
 /**
  * 简单工厂1
  * 

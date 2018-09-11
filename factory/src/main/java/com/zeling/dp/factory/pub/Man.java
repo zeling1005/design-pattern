@@ -1,4 +1,4 @@
-package com.zeling.dp.factory.sf;
+package com.zeling.dp.factory.pub;
 
 public class Man implements IHuman {
 
