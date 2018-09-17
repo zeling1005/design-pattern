@@ -24,6 +24,8 @@
 		<module>factory</module>
 		<module>singleton</module>
 		<module>listener</module>
+		<module>state</module>
+		<module>strategy</module>
 	</modules>
 	<dependencies>
 		<dependency>
