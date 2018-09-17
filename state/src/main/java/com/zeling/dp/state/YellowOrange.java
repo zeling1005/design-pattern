@@ -10,7 +10,7 @@ import com.zeling.dp.state.base.Orange;
 public class YellowOrange implements Orange {
 
     @Override
-    public void printColor() {
-        System.out.println("My color is yellow!");
+    public void color() {
+        System.out.println("My color is yellow, mature!");
     }
 }

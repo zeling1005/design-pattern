@@ -17,7 +17,7 @@ public class FruitPrice {
     /**
      * @param fruit 策略对象
      */
-    public FruitPrice(Fruit fruit) {
+    public void setFruit(Fruit fruit) {
         this.fruit = fruit;
     }
     
