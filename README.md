@@ -6,3 +6,5 @@ design pattern demo
 4、state  
 5、strategy  
 6、prototype  
+7、adapter  
+8、decorator  
