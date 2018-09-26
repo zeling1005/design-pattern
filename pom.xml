@@ -27,6 +27,7 @@
 		<module>state</module>
 		<module>strategy</module>
 		<module>prototype</module>
+		<module>adapter</module>
 	</modules>
 	<dependencies>
 		<dependency>
