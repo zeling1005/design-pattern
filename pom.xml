@@ -29,6 +29,7 @@
 		<module>prototype</module>
 		<module>adapter</module>
 		<module>decorator</module>
+		<module>proxy</module>
 	</modules>
 	<dependencies>
 		<dependency>
