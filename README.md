@@ -8,4 +8,6 @@ design pattern demo
 6、prototype  
 7、adapter  
 8、decorator  
-9、proxy
+9、proxy  
+10、facade  
+11、bridge  
