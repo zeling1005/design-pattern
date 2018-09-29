@@ -13,3 +13,4 @@ design pattern demo
 11、bridge  
 12、composite  
 13、flyweight  
+14、template-method  

@@ -34,6 +34,7 @@
 		<module>bridge</module>
 		<module>composite</module>
 		<module>flyweight</module>
+		<module>template-method</module>
 	</modules>
 	<dependencies>
 		<dependency>
