@@ -11,3 +11,5 @@ design pattern demo
 9、proxy  
 10、facade  
 11、bridge  
+12、composite  
+13、flyweight  
