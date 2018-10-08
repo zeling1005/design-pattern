@@ -35,6 +35,7 @@
 		<module>composite</module>
 		<module>flyweight</module>
 		<module>template-method</module>
+		<module>observer</module>
 	</modules>
 	<dependencies>
 		<dependency>

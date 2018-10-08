@@ -14,3 +14,4 @@ design pattern demo
 12、composite  
 13、flyweight  
 14、template-method  
+15、observer  
