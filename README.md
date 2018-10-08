@@ -15,3 +15,4 @@ design pattern demo
 13、flyweight  
 14、template-method  
 15、observer  
+16、iterator  

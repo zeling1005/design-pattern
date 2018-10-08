@@ -36,6 +36,7 @@
 		<module>flyweight</module>
 		<module>template-method</module>
 		<module>observer</module>
+		<module>iterator</module>
 	</modules>
 	<dependencies>
 		<dependency>
