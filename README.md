@@ -16,3 +16,4 @@ design pattern demo
 14、template-method  
 15、observer  
 16、iterator  
+17、chain of responsibility

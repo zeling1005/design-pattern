@@ -37,6 +37,7 @@
 		<module>template-method</module>
 		<module>observer</module>
 		<module>iterator</module>
+		<module>chain-of-responsibility</module>
 	</modules>
 	<dependencies>
 		<dependency>
