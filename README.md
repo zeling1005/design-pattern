@@ -20,3 +20,4 @@ design pattern demo
 18、command
 19、memento  
 20、visitor  
+21、mediator  

@@ -41,6 +41,7 @@
 		<module>command</module>
 		<module>memento</module>
 		<module>visitor</module>
+		<module>mediator</module>
 	</modules>
 	<dependencies>
 		<dependency>
