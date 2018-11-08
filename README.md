@@ -18,3 +18,4 @@ design pattern demo
 16、iterator  
 17、chain of responsibility  
 18、command
+19、memento  
