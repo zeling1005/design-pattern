@@ -19,3 +19,4 @@ design pattern demo
 17、chain of responsibility  
 18、command
 19、memento  
+20、visitor  

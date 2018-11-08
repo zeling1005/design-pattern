@@ -40,6 +40,7 @@
 		<module>chain-of-responsibility</module>
 		<module>command</module>
 		<module>memento</module>
+		<module>visitor</module>
 	</modules>
 	<dependencies>
 		<dependency>
